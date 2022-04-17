@@ -1,3 +1,7 @@
+<p id="container" float="left" margin=60px>
+  <img alt="Logo Vagrant" height=30% width=30% src="logo-vagrant.png"/>
+</p>
+
 # Curso de Vagrant da Alura
 Projeto realizado durante o curso de Vagrant da Formação DevOps da Alura.
 ______
